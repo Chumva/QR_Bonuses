@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shkaf Bonuses</string>
+    <string name="add_bonuses">Получить бонус</string>
+    <string name="minus_bonuses">Получить подарок</string>
+    <string name="text_amount_money">Введите суму чека</string>
+    <string name="text_for_gift">Это QR код для подарка</string>
+    <string name="text_for_bonuses">Это QR код для получения бонусов</string>
+    <string name="result_text_default">Нажмите кнопку для считывания QR кода</string>
+    <string name="title_add_bonuses_activity">Добавить бонусы</string>
+    <string name="title_minus_bonuses_activity">Списать бонусы</string>
+</resources>
