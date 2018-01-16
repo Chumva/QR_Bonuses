@@ -1,0 +1,3 @@
+This small project could help any cafe or restaurant to add bonus system.
+This app is made for waiters, it reads qr codes (by google vision) and sends POST requests (using Volley) to server with info about client and necessary operation.
+It is also necessary to have an app for clients, which could help them to choose what gifts they will get for their bonuses and which will generate qr codes with info about them.
